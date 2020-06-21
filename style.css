@@ -40,8 +40,8 @@ p {
 }
 
 #name h1 {
-	font-size: 2.5em;
-	font-weight: 700;
+	font-size: 2.0em;
+	font-weight: 500;
 	font-family: "Arial Black",Helvetica, sans-serif;
 	margin-bottom: -6px;
 }
@@ -123,7 +123,7 @@ section:last-child {
 }
 
 .sectionTitle img {
-	width: 75%;
+	width: 100%;
 }
 
 .sectionContent h2 {
