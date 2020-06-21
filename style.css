@@ -58,8 +58,8 @@ p {
 
 #headshot {
 	width: 12.5%;
-	float: left;
-	margin-right: 30px;
+	float: right;
+	margin-left: 30px;
 }
 
 #headshot img {
@@ -70,11 +70,11 @@ p {
 }
 
 #name {
-	float: left;
+	float: right;
 }
 
 #contactDetails {
-	float: right;
+	float: left;
 }
 
 #contactDetails ul {
@@ -106,13 +106,13 @@ section:last-child {
 }
 
 .sectionTitle {
-	float: middle;
+	float: left;
 	width: 15%;
 }
 
 .sectionContent {
 	float: right;
-	width: 72.5%;
+	width: 70%;
 }
 
 .sectionTitle h1 {
@@ -123,7 +123,7 @@ section:last-child {
 }
 
 .sectionTitle img {
-	width: 100%;
+	width: 75%;
 }
 
 .sectionContent h2 {
